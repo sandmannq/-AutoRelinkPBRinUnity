@@ -7,4 +7,4 @@
 # 5. Select "Find Material Texture" you can se the UI pops up.
 # 6. Designate the texture folder
 # 7. Select all the materials and change it to "Autodesk Interactive" (Newer than Unity 2018 3.5f1)
-# 8. Press "Find" button, after the maps are all set, press "Fix" to apply nomal maps. 
+# 8. Press "Find" button, after the maps are all set, press "Fix Now" to apply nomal maps. 
